@@ -1,8 +1,3 @@
-# Sales_Management
-Here’s a **`README.md`** file template for your **Sales Management** project. You can customize it as needed!
-
----
-
 # 📊 **Sales Management**
 
 A comprehensive web application to manage sales, track orders, and analyze performance efficiently. Built with a modern tech stack for seamless user experience and robust data handling.
